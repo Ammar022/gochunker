@@ -1,10 +1,3 @@
-# gochunker
-
-Chunk your text without cutting the words off.
-
-## Usage
-
-```go
 package main
 
 import (
@@ -19,8 +12,3 @@ func main() {
 		fmt.Println(ch)
 	}
 }
-```
-
-## Author
-
-[Fahad Siddiqui](https://github.com/fahadsiddiqui)
